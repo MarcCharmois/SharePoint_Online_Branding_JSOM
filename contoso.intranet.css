@@ -1,0 +1,37 @@
+#siteIcon{
+margin-top:0px;
+}
+#titleAreaBox{
+margin-top:0px;
+margin-left:20%; 
+margin-right:20%;
+background-color:rgba(242, 242, 242, 1);
+}
+#titlerow{
+background-color:rgba(242, 242, 242, 1);
+}
+/*.noindex, */
+.ms-core-listMenu-horizontalBox{
+margin-top:30px; 
+margin-left:-200px;
+}
+.ms-breadcrumb-box {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height:30px;
+}
+
+#SearchBox{
+margin-left:200px;
+margin-right:-50px;
+}
+#suiteBarDelta{
+margin:0px;
+margin-top:0px; 
+}
+#DeltaPlaceHolderSearchArea{
+padding-top:45px;
+}
+.ms-srch-sb > input {
+    width: 140px;
+}
