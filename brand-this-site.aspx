@@ -87,11 +87,13 @@ body #s4-leftpanel {
     <div class="ms-hide">
         <webpartpages:webpartzone runat="server" title="loc:TitleBar" id="TitleBar" allowlayoutchange="false" allowpersonalization="false" style="display: none;" />
     </div>
+    <!-- Added using WebDAV mode by Marc Charmois --->
     <br>
     <br>
     <a href="JavaScript:branding();" id="brand-button">Brand this site</a>
     <br />
     <a href="JavaScript:unBranding();" id="unBrand-button">Unbrand this site</a>
+    <!-- end of the WeDAV customization -->
     <table class="ms-core-tableNoSpace ms-webpartPage-root" width="100%">
         <tr>
             <td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" width="100%">
